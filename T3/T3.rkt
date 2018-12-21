@@ -1,5 +1,5 @@
 ;Author:    Victoria Maria Veloso Rodrigues
-;E-mail:    vicmrodrigues@hotmail.com
+
 
 (require 2htdp/universe)
 (require 2htdp/image)
