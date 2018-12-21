@@ -1,5 +1,5 @@
 ;Author:    Victoria Maria Veloso Rodrigues
-;E-mail:    vicmrodrigues@hotmail.com
+
 
 ;1)
 (define x 3)
